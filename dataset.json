@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Springdale, Arkansas. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Springdale, Arkansas, US",
+  "export_job_id": "34c278ed-d111-42a7-b486-41b3d9370b92",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 559378,
+  "location_name": "Springdale",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-springdale-arkansas-us-sample-559378",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/559378/beamstation_559378_restaurants-us-ar_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 25,
+  "sample_sha256": "7ae718e84369a19a815181cf8936bd2835288e30138099bf1dd21f182db35153",
+  "sample_size_bytes": 103967,
+  "total_records": 250,
+  "updated_at": "2026-04-09T11:15:23.011521+00:00"
+}
