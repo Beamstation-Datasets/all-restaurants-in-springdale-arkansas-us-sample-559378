@@ -1,6 +1,6 @@
 # All Restaurants in Springdale, Arkansas, US
 
-> Free BeamStation sample export with 24 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `559378` |
 | Location | Springdale |
 | Category | Restaurants |
-| Full dataset size | 247 records |
-| Free sample size | 24 records (9.72%) |
-| Last export | 2026-04-16T11:07:57.449100+00:00 |
+| Full dataset size | 221 records |
+| Free sample size | 22 records (9.95%) |
+| Last export | 2026-04-23T10:43:24.773377+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-springdale-arkansas-us-sample-559378/releases/download/sample-latest/beamstation_559378_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
