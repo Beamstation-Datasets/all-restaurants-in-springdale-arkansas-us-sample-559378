@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a3fbff8e-6921-4335-b9ac-c29713a85ae8",
+  "export_job_id": "a246b454-5ae9-4ac1-b152-16e63aa759c7",
   "id_short": 559378,
-  "published_at": "2026-04-23T19:10:56Z",
+  "published_at": "2026-04-30T19:14:55Z",
   "repo_name": "all-restaurants-in-springdale-arkansas-us-sample-559378",
   "sample_asset_name": "beamstation_559378_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/559378/beamstation_559378_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 22,
-  "sample_sha256": "248a3519f3048b2dce6fa8ef3b24acfcacce07018b0043dfe148f7f5834514e8",
-  "sample_size_bytes": 91097,
-  "total_records": 221
+  "sample_records": 26,
+  "sample_sha256": "1b05d7382185816acdaa2a1a0ffe667d17c3f985ad23c06858f5a98f8464d0e7",
+  "sample_size_bytes": 92838,
+  "total_records": 261
 }
